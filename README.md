@@ -2,7 +2,8 @@
 
 __Type:__ Easy <br>
 __Topics:__ String, Stack, Simulation <br>
-__Companies:__ J.P. Morgan, Yelp
+__Companies:__ J.P. Morgan, Yelp <br>
+__LeetCode Link:__ [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)
 <hr>
 
 ### Question
